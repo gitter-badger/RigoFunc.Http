@@ -1,2 +1,2 @@
 # RigoFunc.Http
-This repo contains the Json formatter extensions for HttpClient and HttpContent
+This repo contains the Json formatter extensions for .NET Core HttpClient and HttpContent
